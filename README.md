@@ -8,9 +8,6 @@ Fun fact, [Bikes For Refugees](https://www.bikesforrefugees.scot/) is a real pro
 1. Open up the repository you just cloned (again, check [the git cheat-sheet](https://syllabus.codeyourfuture.io/git/desktop/cheatsheet#i-want-to-open-visual-studio-code-with-code-from-my-repository) if you need help.)
 1. Make a new branch for your work; name it with your cohort/name. For example: NW7/GermanBencci
 
-```git
-git checkout -b COHORT/YourName
-```
 
 You're now ready to code!
 
